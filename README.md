@@ -4,6 +4,8 @@ NaviWorld Quality Management Control solution is Dynamics NAV/365 Business Centr
 Globalization and the resulting internationalization of markets have forced companies to adjust the quality of their products and services continuously to the needs of their customers in order to remain competitive
 	The well-established testing features is at the core of NaviWorld’s Quality Management solution. From incoming goods, through manufacturing to shipping, the system follows the complete materials management every step of the way and gives the necessary info to the users to secure the quality of goods traded or produced.
 
+> https://appsource.microsoft.com/th-th/product/dynamics-365-business-central/PUBID.naviworldasia-1951359%7CAID.nwthqcw1%7CPAPPID.746ecfe1-048f-44bd-8947-7b2797dbda87?tab=Overview
+
 What is NaviWorld’s Quality Management supported.
 >1. Support to enable/disable quality control during on each process (sales, purchase, inventory movement and production).
 >>- On sales process, the product must be quality tested before shipment. 
